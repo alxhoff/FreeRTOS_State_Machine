@@ -22,7 +22,7 @@
  * @author Alex Hoffman
  * @copyright GNU GPL v3
  * @brief A basic state machine implementation
- * 
+ *
  *  @defgroup sm_group State Machine Implementation
  *
  * This basic state machine implementation shows the basic concept of a state
@@ -34,7 +34,7 @@
  * @code{.c}
  * xStatesAdd(init_function, enter_function, run_function, exit_function, ID, name_string)
  * @endcode
- * 
+ *
  * The handler functions take the form seen in xStatesAdd().
  *
  * Once the states have been added an optional callback can be set for the
@@ -60,7 +60,7 @@
  *
  * Otherwise the first state added is run by default. This call is the same that
  * is used to change state during the machines execution.
- * 
+ *
  * @{
  * */
 

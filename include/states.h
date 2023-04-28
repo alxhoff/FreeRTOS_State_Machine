@@ -23,9 +23,9 @@
  * @copyright GNU GPL v3
  * @brief A basic state machine implementation
  *
- *  @defgroup sm_group State Machine Implementation
+ * @defgroup sm_group State Machine Implementation
  *
- * This basic state machine implementation shows the basic concept of a state
+ * @brief This basic state machine implementation shows the basic concept of a state
  * machine where each state is represented by a data object that contains
  * function points to an init, enter, run and exit function.
  *
